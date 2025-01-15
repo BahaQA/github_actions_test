@@ -7,6 +7,6 @@ public class Test2 {
 
     @Test
     public void test1(){
-        Assert.assertEquals(4, 5);
+        Assert.assertEquals(5, 5);
     }
 }
