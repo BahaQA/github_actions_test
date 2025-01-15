@@ -3,7 +3,7 @@ package tests;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Test2 {
+public class Test3 {
 
     @Test
     public void test1(){
